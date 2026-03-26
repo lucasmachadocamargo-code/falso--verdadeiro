@@ -1,30 +1,21 @@
-// booleano
+// Booleano
 
-const usuarioLogado = true;
-const contaPaga = false;
+const usuariologado = true;
+const contapaga = false;
 
-// truthy ou false
+// falso e verdadeiro 
 
-// 0 => false
-// 1 => true 
+console.log(0 == false);
+console.log("" == false);
+console.log(1 == true);
 
-//console.log(0 === false)
-//console.log(""== false)
-//console.log(1 == true);
+// undefined
 
-
-// undefined;
-
-// null;==> vasio ou nada;
-
-let minhavar;
-let  varNull = null;
-
-console.log(minhavar);
-console.log (varNull);
+let minhaVar;
+let varNull = null;
 
 let numero = 3;
-let texto = "alura";
+let texto = "Alura";
 
-console.log (typeof numero);
-console.log (typeof texto);
+console.log(minhaVar);
+console.log(varNull);
