@@ -11,3 +11,4 @@ console.log("novo tipo", typeof dado);
 // exenplo da diferença entre let e const
 const cpf = "123.456.789-00";
 console.log("cpf", cpf);
+console.log("novo const", typeof dado);
